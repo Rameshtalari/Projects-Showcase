@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+select {
+  width: 200px;
+  margin: 30px;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+li {
+  margin: 10px;
+  list-style: none;
+}
